@@ -1,1 +1,0 @@
-import paquete.bd
