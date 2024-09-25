@@ -1,1 +1,1 @@
-import rsbmodule.bd
+import rsbmodules.bd
